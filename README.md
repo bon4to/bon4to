@@ -1,0 +1,3 @@
+- 👋 Oi, eu sou o Lucas!
+- 👀 Ascender profissionalmente fazendo o que eu gosto.
+- 🌱 Estou aprendendo dia a dia novas linguagens e softwares no viés da análise de dados, bem como no âmbito comercial.
