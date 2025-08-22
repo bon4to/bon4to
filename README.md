@@ -10,7 +10,7 @@ info:
   <li>fullstack engineer @ Scoreplan 💼</li>
   <li>brazilian 🇧🇷 (pt-br / en)</li>
   <li>love for music, movies & racing</li>
-  <li>i have 3 cats btw 🤓</li>
+  <li>i have 3 cats 🤓</li>
 </ul>
 contact:
 <ul>
